@@ -1,5 +1,5 @@
-![image](https://github.com/yuanyong2024/pico_w_module/assets/163154773/a9305a3a-4845-444d-9d07-a36fcd3ac4d0)
 
+![2](https://github.com/yuanyong2024/pico-wm/assets/163154773/33638b8b-19ea-4c94-9373-6482cb6c845c)
 # Introduction
 As a hardware engineer, it's always have difficulties to coding in python than C.Plus,I'm a fan of Raspberry Pi's hardware. So when they release the pico w and when i saw the schematic for it. 
 I was thinking well I should build one module based on that architecture with below several reasons
