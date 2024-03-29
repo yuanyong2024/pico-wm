@@ -27,9 +27,9 @@ So there is. I made it work even at the first verison. And optimized a little bi
 1. The only limitation for this module would be the RF performance, Still need more time to tuning it.
 2. And because I need to make sure the module is functioning well after SMT, so I didnot populate the shield cover yet.
 
-# how to get one?
+# considering support me?
 Building the module definitley take time and energy.
-And also it's cost a lot. As the module itself is a six layer board and I'm using the expensive Infineon chip. So I would appreciate anyone who can support me by purchase it from this link
+And also it's cost a lot. As the module itself is a six layer board and I'm using the expensive Infineon chip. So I would appreciate anyone who can support me by purchase it from [this link](https://www.elecrow.com/pico-wm.html)
 
 # Attentions:
 1. This is just a module. So need customer build a carrier board for it.
